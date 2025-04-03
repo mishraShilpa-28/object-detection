@@ -6,7 +6,7 @@ It uses React and TensorFlow.js to detect objects in images or live video stream
 ## Getting Started
 
 ### Prerequisites
-- Node.js & Yarn (or npm) installed
+- Yarn installed
 
 ### Installation
 1. Clone the repository:
