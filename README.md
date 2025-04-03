@@ -1,6 +1,7 @@
 # React Object Detection
 
 It uses React and TensorFlow.js to detect objects in images or live video streams.
+[Live Preview](github.com)
 
 ## Getting Started
 
@@ -10,8 +11,8 @@ It uses React and TensorFlow.js to detect objects in images or live video stream
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone <repo-url>
-   cd <project-folder>
+   git clone https://github.com/mishraShilpa-28/object-detection.git
+   cd object-detection
    ```
 2. Install dependencies:
    ```sh
